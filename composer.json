@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Starter\\": "source"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.8"
+    }
+}
